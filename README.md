@@ -5,6 +5,11 @@ Proyek ini adalah aplikasi manajemen laundry sederhana yang dibangun menggunakan
 
 Aplikasi ini mencakup backend dengan PHP dan frontend menggunakan Blade templating, dengan dukungan untuk database melalui migrasi Laravel.
 
+## Akun
+- **Admin**:
+- email: admin@laundry.test
+- password: password123
+
 ## Fitur Utama
 - **Manajemen Pelanggan**: Tambah, edit, hapus data pelanggan.
 - **Manajemen Pesanan**: Buat pesanan baru, lacak status (misalnya: diterima, diproses, selesai), dan hitung biaya.
