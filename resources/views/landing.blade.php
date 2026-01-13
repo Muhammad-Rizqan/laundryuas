@@ -142,7 +142,7 @@
     <!-- Footer -->
     <footer class="bg-dark text-white text-center py-4">
         <p class="mb-0">© {{ date('Y') }} LaundryKita - Cuci Bersih, Hidup Lebih Mudah</p>
-        <small class="opacity-75">Palangkaraya, Kalimantan Tengah</small>
+        <small class="opacity-75">Banjarbaru, Kalimantan Selatan</small>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
